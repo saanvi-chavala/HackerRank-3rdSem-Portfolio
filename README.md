@@ -42,19 +42,19 @@ Accepted submission screenshots will be added here.
 ## HackerRank Accepted Submissions
 
 ### 1. Diagonal Difference
-![Diagonal Difference](screenshots/diagonal-difference.png)
+![Diagonal Difference](screenshots/DD_result.png)
 
 ### 2. Dynamic Array
-![Dynamic Array](screenshots/dynamic-array.png)
+![Dynamic Array](screenshots/DA_result.png)
 
 ### 3. Time Conversion
-![Time Conversion](screenshots/time-conversion.png)
+![Time Conversion](screenshots/TC_result.png)
 
 ### 4. Compare the Triplets
-![Compare the Triplets](screenshots/compare-the-triplets.png)
+![Compare the Triplets](screenshots/CTT_result.png)
 
 ### 5. Sparse Arrays
-![Sparse Arrays](screenshots/sparse-arrays.png)
+![Sparse Arrays](screenshots/SA_result.png)
 
 
 ## Conclusion
