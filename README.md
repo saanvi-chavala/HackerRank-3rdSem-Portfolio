@@ -39,5 +39,23 @@ Add your HackerRank profile link here.
 ## Screenshots
 Accepted submission screenshots will be added here.
 
+## HackerRank Accepted Submissions
+
+### 1. Diagonal Difference
+![Diagonal Difference](screenshots/diagonal-difference.png)
+
+### 2. Dynamic Array
+![Dynamic Array](screenshots/dynamic-array.png)
+
+### 3. Time Conversion
+![Time Conversion](screenshots/time-conversion.png)
+
+### 4. Compare the Triplets
+![Compare the Triplets](screenshots/compare-the-triplets.png)
+
+### 5. Sparse Arrays
+![Sparse Arrays](screenshots/sparse-arrays.png)
+
+
 ## Conclusion
 This project helped improve algorithmic thinking, Java programming skills, and problem-solving efficiency.
